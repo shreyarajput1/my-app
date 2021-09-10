@@ -1,10 +1,10 @@
 import React from 'react';
-import ModalDialog from 'react-bootstrap/ModalDialog'
+
 import Modal from 'react-bootstrap/Modal';
-import ModalTitle from 'react-bootstrap/ModalTitle';
+
 import Button from 'react-bootstrap/Button';
-import ModalBody from 'react-bootstrap/ModalBody';
-import ModalFooter from 'react-bootstrap/ModalFooter'
+
+
 import  { useState } from 'react';
 import Form from 'react-bootstrap/Form';
 import "bootstrap/dist/css/bootstrap.min.css";
